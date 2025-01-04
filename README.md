@@ -1,3 +1,6 @@
+![Mi Proyecto Logo](assets/logo.png)
+
+
 # chango-db-migrations
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
